@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "671_A_simple_RadioApp"
